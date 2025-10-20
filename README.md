@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saksham Sinha</h1>
 <h3 align="center">ECE Student | FPGA & Processor Design Enthusiast | Learning ML</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/yourgiflink.gif" alt="Project animation" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deadly-Stricker&label=Profile%20Views&color=0e75b6&style=flat" alt="Deadly-Stricker" />
