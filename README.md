@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Email-sakshamsinha143%40gmail.com-red?style=for-the-badge">
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/sinha-saksham">
+  <a href="https://www.linkedin.com/in/sinha-saksham">
     <img src="https://img.shields.io/badge/LinkedIn-Saksham%20Sinha-blue?style=for-the-badge">
   </a>
 </p>
