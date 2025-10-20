@@ -63,10 +63,10 @@
 
 <p align="center">
   <a href="mailto:sakshamsinha143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sakshamsinha%40example.com-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-sakshamsinha143%40gmail.com-red?style=for-the-badge">
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sakshamsinha">
+  <a href="www.linkedin.com/in/sinha-saksham">
     <img src="https://img.shields.io/badge/LinkedIn-Saksham%20Sinha-blue?style=for-the-badge">
   </a>
 </p>
