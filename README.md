@@ -26,22 +26,6 @@
   <img src="https://skillicons.dev/icons?i=verilog,vscode,python,matlab,tensorflow,linux,git,github,c,cpp&theme=light" />
 </p>
 
----
-### 🚀 Featured Projects
-
-- [⚙️ **Pipelined MIPS CPU**](https://github.com/Deadly-Stricker/MIPS-CPU)  
-  Implemented a 5-stage pipelined processor with **hazard detection and forwarding**, ALU, and register file simulation.
-
-- [🔢 **Radix-2 FFT Processor**](https://github.com/Deadly-Stricker/FFT-Verilog)  
-  High-throughput **FFT processor** in Verilog for signal processing applications.
-
-- [🔋 **Cyber-Physical System: Buck Converter**](https://github.com/Deadly-Stricker/Buck-CPS)  
-  MATLAB/Simulink model with **fault injection** and **countermeasure logic** for CPS study.
-
-- [🧠 **Upcoming: ML Hardware Accelerator**]  
-  Exploring **FPGA-based acceleration** for neural network inference.
-
----
 
 ### 🎯 Currently Learning
 
