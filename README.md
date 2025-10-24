@@ -16,7 +16,7 @@
   - 🧠 **Pipelined FFT Processor (Radix-2)** for high throughput
   - ⚡ **Cyber-Physical System: Buck Converter** with real-time fault detection and mitigation
   - 🧩 **MIPS Pipelined CPU Simulation** (Register File + ALU implemented)
-- 🧭 My goal: **Work at the intersection of hardware and intelligence** (companies like Intel, NVIDIA, or AMD).
+- 🧭 My goal: **Work at the intersection of hardware and intelligence**.
 
 ---
 
