@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saksham Sinha</h1>
+<h1 align="center">Hi , I'm Saksham Sinha</h1>
 <h3 align="center">ECE Student | FPGA & Processor Design Enthusiast | Learning ML</h3>
 
 
@@ -8,26 +8,26 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 I'm an **ECE student** with a deep interest in **Digital Design, FPGA Systems, and Processor Architectures**.  
-- 💡 Currently learning **Machine Learning** and exploring how hardware acceleration can optimize AI models.  
-- ⚙️ I’ve completed projects like:
-  - 🧠 **Pipelined FFT Processor (Radix-2)** for high throughput
-  - ⚡ **Cyber-Physical System: Buck Converter** with real-time fault detection and mitigation
-  - 🧩 **MIPS Pipelined CPU Simulation** (Register File + ALU implemented)
-- 🧭 My goal: **Work at the intersection of hardware and intelligence**.
+-  I'm an **ECE student** with a deep interest in **Digital Design, FPGA Systems, and Processor Architectures**.  
+-  Currently learning **Machine Learning** and exploring how hardware acceleration can optimize AI models.  
+-  I’ve completed projects like:
+  -  **Pipelined FFT Processor (Radix-2)** for high throughput
+  -  **Cyber-Physical System: Buck Converter** with real-time fault detection and mitigation
+  -  **MIPS Pipelined CPU Simulation** (Register File + ALU implemented)
+-  My goal: **Work at the intersection of hardware and intelligence**.
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=verilog,vscode,python,matlab,tensorflow,linux,git,github,c,cpp&theme=light" />
 </p>
 
 
-### 🎯 Currently Learning
+###  Currently Learning
 
 - **Machine Learning algorithms** (classification, regression, neural networks)  
 - **TensorFlow** and **scikit-learn** for model building  
